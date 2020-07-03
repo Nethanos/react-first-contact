@@ -1,0 +1,23 @@
+.hub-card {
+    flex: 1;
+    margin: 20px;
+    height: 70%;
+    width: 20%;
+    border: 2px solid white;
+    text-align: center;
+    
+    display: flex;
+    flex-direction: column;
+
+    min-width: 300px;
+}
+
+.hub-card .body {
+    border-bottom:  2px solid white;
+    border-top: 2px solid white;
+    flex: 1;
+}
+
+.footer {
+
+}
